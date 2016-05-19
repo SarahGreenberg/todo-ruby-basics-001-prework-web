@@ -25,5 +25,4 @@ end
 def pizza_party (string = "cheese")
   puts "#{string}"
   string
-
 end
